@@ -1,0 +1,2 @@
+2026-06-12 23:13:16 [ERROR] - Authentication Failure: BINANCE_API_KEY or BINANCE_API_SECRET is missing from the environment configuration.
+2026-06-12 23:13:16 [ERROR] - Order Execution Failed: BINANCE_API_KEY or BINANCE_API_SECRET is missing from the environment configuration.
